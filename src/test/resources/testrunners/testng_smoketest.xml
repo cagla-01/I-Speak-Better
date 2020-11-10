@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Smoke Suite">
+  <test name="Testng Smoke Test">
+    <classes>
+      <class name="com.qa.ispeakbetter.tests.HomePageTest">
+      <methods>
+      	<exclude name="verifyHomePageTitle"/>
+      	<exclude name="verifyUrl"/>
+      	<include name="doLogin"/>
+      	<include name="fillOutProgram"/>
+      
+      </methods>
+      
+      </class>
+     <class name="com.qa.ispeakbetter.tests.LoginPageTest">
+      <methods>
+      	<exclude name="verifyTitle"/>
+      	<include name="verifyRedeemButtonEnabled"/>
+      	<exclude name="clickToLibraryButton"/>
+      
+      </methods>
+      
+        </class>
+      <class name="com.qa.ispeakbetter.tests.LibraryPageTest">
+      <methods>
+      	<exclude name="HeaderLinks"/>
+      	<include name="chatWithRobot"/>
+      	<exclude name="goToLoginPage"/>
+      
+      </methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="9" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39291" started-at="2020-10-16T16:00:59Z" finished-at="2020-10-16T16:01:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39291" started-at="2020-10-16T16:00:59Z" finished-at="2020-10-16T16:01:38Z">
+      <class name="com.qa.ispeakbetter.tests.HomePageTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="setUP" is-config="true" duration-ms="4558" started-at="2020-10-16T16:00:59Z" finished-at="2020-10-16T16:01:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="fillOutProgram(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="fillOutProgram" duration-ms="3889" started-at="2020-10-16T16:01:03Z" description="fill out the form for program" data-provider="getPackagesData" finished-at="2020-10-16T16:01:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2 weeks]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1 Class]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Business English]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillOutProgram -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="tearDown" is-config="true" duration-ms="55" started-at="2020-10-16T16:01:07Z" finished-at="2020-10-16T16:01:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="setUP" is-config="true" duration-ms="4082" started-at="2020-10-16T16:01:07Z" finished-at="2020-10-16T16:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="fillOutProgram(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="fillOutProgram" duration-ms="3834" started-at="2020-10-16T16:01:11Z" description="fill out the form for program" data-provider="getPackagesData" finished-at="2020-10-16T16:01:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4 weeks]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2 Classes]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Children English]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[84]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillOutProgram -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="tearDown" is-config="true" duration-ms="54" started-at="2020-10-16T16:01:15Z" finished-at="2020-10-16T16:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="setUP" is-config="true" duration-ms="3628" started-at="2020-10-16T16:01:15Z" finished-at="2020-10-16T16:01:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="fillOutProgram(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="fillOutProgram" duration-ms="3896" started-at="2020-10-16T16:01:19Z" description="fill out the form for program" data-provider="getPackagesData" finished-at="2020-10-16T16:01:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4 weeks]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3 Classes]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Conversational English]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[216]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillOutProgram -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="tearDown" is-config="true" duration-ms="54" started-at="2020-10-16T16:01:23Z" finished-at="2020-10-16T16:01:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="setUP" is-config="true" duration-ms="3891" started-at="2020-10-16T16:01:23Z" finished-at="2020-10-16T16:01:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="fillOutProgram(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="fillOutProgram" duration-ms="3884" started-at="2020-10-16T16:01:27Z" description="fill out the form for program" data-provider="getPackagesData" finished-at="2020-10-16T16:01:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8 weeks]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4 Classes]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[IELTS Academic]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[512]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillOutProgram -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="tearDown" is-config="true" duration-ms="55" started-at="2020-10-16T16:01:30Z" finished-at="2020-10-16T16:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="setUP" is-config="true" duration-ms="3415" started-at="2020-10-16T16:01:31Z" finished-at="2020-10-16T16:01:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="fillOutProgram(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="fillOutProgram" duration-ms="3910" started-at="2020-10-16T16:01:34Z" description="fill out the form for program" data-provider="getPackagesData" finished-at="2020-10-16T16:01:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12 weeks]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5 Classes]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[IELTS General Training]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[960]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillOutProgram -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.ispeakbetter.tests.HomePageTest@f6c48ac]" name="tearDown" is-config="true" duration-ms="55" started-at="2020-10-16T16:01:38Z" finished-at="2020-10-16T16:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.ispeakbetter.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
